@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+echo INSTALACION DE ENTORNO GRAFICO EN DEBIAN Xfce + FIREFOX+R_YTHMBOX
+apt-get install xfce4
+systemctl reboot

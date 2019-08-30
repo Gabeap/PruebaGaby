@@ -1,0 +1,19 @@
+#!/bin/bash
+echo nombre Gaby Apontes
+echo asignatura Open Source
+echo profesor Tamayo
+
+# instalación de lector PDF
+# apt-get install evince
+
+# instalación de sudo
+apt-get install sudo
+
+# administrador de sudo: se brindo acceso ALL a usuario pos 
+sudo visudo
+
+#pos ALL=(ALL:ALL) ALL
+
+# para verificar el usuario
+# whoami
+
